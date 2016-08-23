@@ -1,6 +1,13 @@
 ---
 layout: post
 title: S. aureus och Lugdunin
+image: '/assets/img/'
+description:
+main-class: 'BioMed'
+tags:
+- S.aureus
+- Lugdunin
+- MRSA
 ---
 
 ## Human commensals producing a novel antibiotic impair pathogen colonization
