@@ -1,0 +1,14 @@
+---
+layout: post
+title: S. aureus och Lugdunin
+image: '/assets/img/'
+description: '研究團隊在人類鼻腔中發現了影響病原體定植的微生物，並研發了相關的抗生物藥物。'
+main-class: 'biomed'
+tags:
+- S.aureus
+- Lugdunin
+- MRSA
+---
+
+## Human commensals producing a novel antibiotic impair pathogen colonization
+The vast majority of systemic bacterial infections are caused by facultative, often antibiotic-resistant, pathogens colonizing human body surfaces. Nasal carriage of Staphylococcus aureus predisposes to invasive infection, but the mechanisms that permit or interfere with pathogen colonization are largely unknown. Whereas soil microbes are known to compete by production of antibiotics, such processes have rarely been reported for human microbiota. We show that nasal Staphylococcus lugdunensis strains produce lugdunin, a novel thiazolidine-containing cyclic peptide antibiotic that prohibits colonization by S. aureus, and a rare example of a non-ribosomally synthesized bioactive compound from human-associated bacteria. Lugdunin is bactericidal against major pathogens, effective in animal models, and not prone to causing development of resistance in S. aureus. Notably, human nasal colonization by S. lugdunensis was associated with a significantly reduced S. aureus carriage rate, suggesting that lugdunin or lugdunin-producing commensal bacteria could be valuable for preventing staphylococcal infections. Moreover, human microbiota should be considered as a source for new antibiotics.

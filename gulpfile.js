@@ -75,7 +75,7 @@ gulp.task('js', function(){
  * Imagemin Task
  */
 gulp.task('imagemin', function() {
-	return gulp.src('src/img/**/*.{jpg,png,gif,jpeg}')
+	return gulp.src('src/img/**/*.{jpg,png,gif}')
 		.pipe(plumber())
 		.pipe(imagemin({ optimizationLevel: 5, progressive: true, interlaced: true }))
 		.pipe(gulp.dest('assets/img/'));
@@ -96,4 +96,4 @@ gulp.task('watch', function () {
  * Default task, running just `gulp` will compile the stylus,
  * compile the jekyll site, launch BrowserSync & watch files.
  */
-gulp.task('default', ['js', 'stylus', 'imagemin', 'browser-sync', 'watch']);
+gulp.task('default', ['js', 'stylus', 'browser-sync', 'watch']);
