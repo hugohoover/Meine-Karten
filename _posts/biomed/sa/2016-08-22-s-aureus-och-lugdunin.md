@@ -1,6 +1,13 @@
 ---
 layout: post
 title: S. aureus och Lugdunin
+image: '/assets/img/'
+description: '研究團隊在人類鼻腔中發現了影響病原體定植的微生物，並研發了相關的抗生物藥物。'
+main-class: 'biomed'
+tags:
+- S.aureus
+- Lugdunin
+- MRSA
 ---
 
 ## Human commensals producing a novel antibiotic impair pathogen colonization

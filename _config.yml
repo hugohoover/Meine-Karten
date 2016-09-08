@@ -1,15 +1,15 @@
 # Site settings
-description: Anteckningar, idéer och arbetalog
+description: 記錄自己的生活和工作
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Hugo Hoover
-user_description: JAg är en far, intresserad av  proteinstrukturer, biomolekylär interaktioner, data science och språk.
+username: hugo hoover
+user_description:
 user_title:
 email: hugohoover.denovo@gmail.com
-twitter_username: huWANGplus
-github_username: hugohoover
+twitter_username: huWUNGplus
+github_username:
 gplus_username:
 disqus_username:
 

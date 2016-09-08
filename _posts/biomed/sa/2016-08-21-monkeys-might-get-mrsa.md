@@ -2,6 +2,11 @@
 layout: post
 title: monkeys might get MRSA
 author: Nicola Jones-Warwick
+image: '/assets/img/'
+description:
+main-class: 'biomed'
+tags:
+- S.aureus
 ---
 
 Many of the deadly diseases that afflict humans were originally acquired through contact with animals. However new research shows that pathogens can also jump the species barrier to move in the other direction: from humans to animals.
