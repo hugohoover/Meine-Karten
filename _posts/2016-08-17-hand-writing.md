@@ -9,5 +9,9 @@ color:
 tags:
 categories:
 twitter_text:
-introduction:
+introduction: '計算機和鍵盤已經徹底改變了我們的習慣，書寫這一能力正在逐漸喪失。'
 ---
+
+手寫已經是現代人不擅長的能力了。
+很多時候我們會發現自己提筆忘字，
+

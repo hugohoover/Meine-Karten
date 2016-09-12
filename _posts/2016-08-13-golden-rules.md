@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "golden rules"
+title: "黃金法則 / GOLDEN RULES"
 date: 2016-08-13 14:31:53
 image: '/assets/img/'
-description:
-main-class: 'Notizen'
+description: '黃金法則包括一般規律和特殊情況。'
+main-class: 'notizen'
 color:
 tags:
 - anteckningar
 categories:
 twitter_text:
-introduction:
+introduction: '任何領域都有各自的黃金法則。洞悉這些遊戲規則可以達到事半功倍的目的，而且可以實現很多平常人難以企及的目標。'
 ---
 
 
@@ -24,3 +24,4 @@ introduction:
 ***
 
 ## 以目前的工作作為例子
+

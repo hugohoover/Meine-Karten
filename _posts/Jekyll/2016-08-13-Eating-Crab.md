@@ -3,13 +3,13 @@ layout: post
 title: "Eating Crab"
 date: 2016-08-13 11:19:51
 image: '/assets/img/'
-description: 'min first post，這個模板有很多我希望實現的效果，於是開始閱讀和修改。'
-main-class: 'Notizen'
+description: '這個模板有一些我希望實現的效果，於是開始閱讀和修改。'
+main-class: 'jekyll'
 tags:
 - misc
-- jekyll
+- cards-jekyll
 categories:
-twitter_text: 'nil'
+twitter_text:
 introduction: '這個模板的一些設置我之前沒有見過，於是紀錄一下DIY過程。'
 ---
 
@@ -17,11 +17,14 @@ introduction: '這個模板的一些設置我之前沒有見過，於是紀錄�
 Vincent Van Gogh
 
 ## init
+建立工作環境是比較簡單的。
+主要是安裝bundle和npm包。
 
     sudo npm install -g gulp gulp-cli
     npm install
+    bundle install
 
-### 我寫了一個shell腳本來自動完成這些任務
+我寫了一個shell腳本來自動完成這些任務
 
 ***
 
