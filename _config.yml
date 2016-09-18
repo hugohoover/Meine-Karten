@@ -1,7 +1,7 @@
 # Site settings
 description: 記錄自己的生活和工作
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "" # the base hostname & protocol for your site
 
 # User settings
 username: hugo hoover
