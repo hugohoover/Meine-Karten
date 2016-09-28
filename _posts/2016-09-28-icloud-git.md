@@ -1,3 +1,7 @@
+---
+layout: post
+title: Setup a Git Repository in iCloud Drive
+---
 # Setup a Git Repository in iCloud Drive
 
 `November 27, 2014`
