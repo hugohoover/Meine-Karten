@@ -1,4 +1,5 @@
-var env         = require('minimist')(process.argv.slice(2)),
+'use strict'
+var env       = require('minimist')(process.argv.slice(2)),
 	gulp        = require('gulp'),
 	plumber     = require('gulp-plumber'),
 	browserSync = require('browser-sync'),
@@ -49,7 +50,7 @@ gulp.task('browser-sync', ['jekyll-build'], function() {
  * Stylus task
  */
 gulp.task('stylus', function(){
-		gulp.src('src/styl/main.styl')
+		gulp.src('source/styl/main.styl')
 		.pipe(plumber())
 		.pipe(stylus({
 			use:[koutoSwiss(), prefixer(), jeet(), rupture()],
@@ -64,7 +65,7 @@ gulp.task('stylus', function(){
  * Javascript Task
  */
 gulp.task('js', function(){
-	return gulp.src((env.p) ? 'src/js/**/*.js' : ['src/js/**/*.js', '!src/js/analytics.js'])
+	return gulp.src((env.p) ? 'source/js/**/*.js' : ['source/js/**/*.js', '!source/js/analytics.js'])
 		.pipe(plumber())
 		.pipe(concat('main.js'))
 		.pipe(uglify())
@@ -75,7 +76,7 @@ gulp.task('js', function(){
  * Imagemin Task
  */
 gulp.task('imagemin', function() {
-	return gulp.src('src/img/**/*.{jpg,png,gif}')
+	return gulp.src('source/img/**/*.{jpg,png,gif}')
 		.pipe(plumber())
 		.pipe(imagemin({ optimizationLevel: 5, progressive: true, interlaced: true }))
 		.pipe(gulp.dest('assets/img/'));
@@ -86,9 +87,9 @@ gulp.task('imagemin', function() {
  * Watch html/md files, run jekyll & reload BrowserSync
  */
 gulp.task('watch', function () {
-	gulp.watch('src/styl/**/*.styl', ['stylus']);
-	gulp.watch('src/js/**/*.js', ['js']);
-	gulp.watch('src/img/**/*.{jpg,png,gif}', ['imagemin']);
+	gulp.watch('source/styl/**/*.styl', ['stylus']);
+	gulp.watch('source/js/**/*.js', ['js']);
+	gulp.watch('source/img/**/*.{jpg,png,gif}', ['imagemin']);
 	gulp.watch(['**/*.html','index.html', '_includes/*.html', '_layouts/*.html', '_posts/*'], ['jekyll-rebuild']);
 });
 
