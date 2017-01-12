@@ -59,6 +59,10 @@
     
     
         <url>
+            <loc>/worklog-meine-karten/</loc>
+        </url>
+  
+        <url>
             <loc>/icloud-git/</loc>
         </url>
   

@@ -5,9 +5,36 @@
     <description>記錄自己的生活和工作</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Jan 2017 03:45:27 +0800</pubDate>
-    <lastBuildDate>Fri, 13 Jan 2017 03:45:27 +0800</lastBuildDate>
+    <pubDate>Fri, 13 Jan 2017 04:08:27 +0800</pubDate>
+    <lastBuildDate>Fri, 13 Jan 2017 04:08:27 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>worklog meine karten</title>
+        <description>&lt;h1 id=&quot;模板為cards&quot;&gt;模板為cards&lt;/h1&gt;
+
+&lt;h1 id=&quot;基本實現了靜態網頁的功能&quot;&gt;基本實現了靜態網頁的功能&lt;/h1&gt;
+
+&lt;h1 id=&quot;部署了hubot但是目前不知道能做什麼&quot;&gt;部署了hubot，但是目前不知道能做什麼&lt;/h1&gt;
+
+&lt;h1 id=&quot;之後用yo生成gulp開發環境&quot;&gt;之後用yo生成gulp開發環境&lt;/h1&gt;
+</description>
+        <pubDate>Fri, 13 Jan 2017 00:00:00 +0800</pubDate>
+        <link>/worklog-meine-karten/</link>
+        <guid isPermaLink="true">/worklog-meine-karten/</guid>
+        
+        <category>jekyll</category>
+        
+        <category>gulp</category>
+        
+        <category>yo</category>
+        
+        <category>hubot</category>
+        
+        
+        <category>memo</category>
+        
+      </item>
     
       <item>
         <title>Setup a Git Repository in iCloud Drive</title>
