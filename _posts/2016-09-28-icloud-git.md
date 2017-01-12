@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Setup a Git Repository in iCloud Drive
+main-class: misc
+tags:
+ - git
 ---
 # Setup a Git Repository in iCloud Drive
 

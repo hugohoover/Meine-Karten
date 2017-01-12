@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>記錄自己的生活和工作</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 13 Jan 2017 03:34:22 +0800</pubDate>
+    <lastBuildDate>Fri, 13 Jan 2017 03:34:22 +0800</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Setup a Git Repository in iCloud Drive</title>
+        <description>&lt;h1 id=&quot;setup-a-git-repository-in-icloud-drive&quot;&gt;Setup a Git Repository in iCloud Drive&lt;/h1&gt; &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;November 27, 2014&lt;/code&gt;&lt;/p&gt; &lt;p&gt;Mac OSX is your preferred operation system as a developer? Then chances are good that you already use iCloud. Apple introduced iCloud Drive with OSX 10.10 (Yosemite) which grants you direct access to your remote iCloud folder. Finally you can move files directly between your local harddrive and iCloud back and forth.&lt;/p&gt; &lt;p&gt;iCloud Drive can easily be used as remote storage for your private git repositories. You don’t have to use third-party services like Dropbox anymore. Read further for a quick and simple 3 min tutorial.&lt;/p&gt; &lt;p&gt;Still there?...</description>
+        <pubDate>Wed, 28 Sep 2016 00:00:00 +0800</pubDate>
+        <link>/icloud-git/</link>
+        <guid isPermaLink="true">/icloud-git/</guid>
+        
+        <category>git</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
